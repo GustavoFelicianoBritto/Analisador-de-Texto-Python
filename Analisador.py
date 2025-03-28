@@ -3,6 +3,8 @@ vogaisList = ['a','e','i','o','u','á','é','í','ó','ú','à','è','ì','ò','
 print("Bem vindo/a/e ao analisador de textos")
 texto = input("Digite seu texto: ").lower()
 vogaisqt=0
+palavrasqt=0
+palavraLonga=""
 
 #print(texto)
 
@@ -11,4 +13,19 @@ for letra in texto:
         vogaisqt += 1
 
 
-print(f"Quantidade de vogais em seu texto: {vogaisqt}")
+textoSeparado = texto.split()
+palavrasqt= len(textoSeparado)
+
+for palavraAtual in textoSeparado:
+    if len(palavraAtual)>len(palavraLonga):
+        palavraLonga=palavraAtual
+
+
+print(f"\nQuantidade de VOGAIS em seu texto: {vogaisqt}\n"
+      f"Quantidade de PALAVRAS em seu texto: {palavrasqt}\n"
+      f"Palavra mais LONGA: {palavraLonga}")
+
+
+
+
+
