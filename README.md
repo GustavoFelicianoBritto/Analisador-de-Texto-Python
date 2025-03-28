@@ -50,7 +50,7 @@ Este projeto ajuda a praticar:
 
 ---
 
-## 🔧 **Melhorias Futuras (Desafios para Você!)**  
+## 🔧 **Melhorias Futuras**  
 - 🎯 **Adicionar consoantes** na contagem  
 - 🎯 **Ignorar pontuação e simbolos** (vírgulas, pontos, etc.)  
 
@@ -60,5 +60,3 @@ Este projeto ajuda a praticar:
 ## 📌 **Notas**  
 - Desenvolvido para **treinar Python** (linguagem que estou aprendendo).  
 - Foco em **clareza** e **simplicidade** para iniciantes.  
-
-**Divirta-se programando!** 😊🚀  
