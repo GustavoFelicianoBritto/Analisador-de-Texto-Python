@@ -46,7 +46,6 @@ Este projeto ajuda a praticar:
 - ✅ **Estruturas básicas** de Python  
 - ✅ **Comparação** de caracteres em listas  
 - ✅ **Contagem** e **análise** de strings  
-- ✅ **Interação** com o usuário  
 
 ---
 
@@ -59,4 +58,3 @@ Este projeto ajuda a praticar:
 
 ## 📌 **Notas**  
 - Desenvolvido para **treinar Python** (linguagem que estou aprendendo).  
-- Foco em **clareza** e **simplicidade** para iniciantes.  
