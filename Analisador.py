@@ -26,6 +26,6 @@ print(f"\nQuantidade de VOGAIS em seu texto: {vogaisqt}\n"
       f"Palavra mais LONGA: {palavraLonga}")
 
 
-
+input("\nPressione qualquer tecla para sair.")
 
 
