@@ -28,7 +28,7 @@ Este projeto é um simples **analisador de textos** desenvolvido em Python, cria
 ## 🚀 **Como Usar**  
 1. **Execute o script**:  
    ```bash
-   python analisador_texto.py
+   python Analisador.py
    ```
 
 2. **Digite um texto** quando solicitado:  
